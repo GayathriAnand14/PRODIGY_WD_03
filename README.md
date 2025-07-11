@@ -16,5 +16,16 @@ It is a simple and interactive 3x3 board game designed using HTML, CSS, and Java
 
 ## OUTPUT SCREENSHOT:
 
-![Image](https://github.com/user-attfc-857a-00eee7a845d0)achments/assets/a09f439c-cecd-4a
+![Image](https://github.com/user-attachments/assets/72f64f85-7f5d-4992-abb4-594dbe6942b7)
+
+![Image](https://github.com/user-attachments/assets/9efeda0c-f56b-4aa1-9b8a-2f3712bd515f)
+
+## WHAT I LEARNED:
+
+- DOM manipulation in JavaScript
+
+- Writing conditions to detect game logic (win/draw)
+
+- Creating interactive UI with basic frontend tools
+
 
