@@ -16,3 +16,5 @@ It is a simple and interactive 3x3 board game designed using HTML, CSS, and Java
 
 ## OUTPUT SCREENSHOT:
 
+![Image](https://github.com/user-attfc-857a-00eee7a845d0)achments/assets/a09f439c-cecd-4a
+
